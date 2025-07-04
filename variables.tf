@@ -18,5 +18,5 @@ variable "security_group_ids" {
 }
 
 variable "tags" {
-  type = map()
+  type = map
 }
